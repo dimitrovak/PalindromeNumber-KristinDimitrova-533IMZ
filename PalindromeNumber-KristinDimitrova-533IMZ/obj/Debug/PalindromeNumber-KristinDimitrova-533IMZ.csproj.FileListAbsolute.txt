@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\PalindromeNumber-KristinDimitrova-533IMZ\PalindromeNumber-KristinDimitrova-533IMZ\bin\Debug\PalindromeNumber-KristinDimitrova-533IMZ.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\PalindromeNumber-KristinDimitrova-533IMZ\PalindromeNumber-KristinDimitrova-533IMZ\obj\Debug\PalindromeNumber-KristinDimitrova-533IMZ.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\PalindromeNumber-KristinDimitrova-533IMZ\PalindromeNumber-KristinDimitrova-533IMZ\bin\Debug\PalindromeNumber-KristinDimitrova-533IMZ.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\PalindromeNumber-KristinDimitrova-533IMZ\PalindromeNumber-KristinDimitrova-533IMZ\bin\Debug\PalindromeNumber-KristinDimitrova-533IMZ.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\PalindromeNumber-KristinDimitrova-533IMZ\PalindromeNumber-KristinDimitrova-533IMZ\obj\Debug\PalindromeNumber-KristinDimitrova-533IMZ.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\PalindromeNumber-KristinDimitrova-533IMZ\PalindromeNumber-KristinDimitrova-533IMZ\obj\Debug\PalindromeNumber-KristinDimitrova-533IMZ.pdb
